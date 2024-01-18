@@ -66,7 +66,7 @@ body {
     background-image: url("https://assets.ccbp.in/frontend/intermediate-rwd/nike-shoes-3-img.png");
   }
   
-  .card-description: {
+  .card-description{
     font-size: 16px;
     color: #594d6d;
   }
